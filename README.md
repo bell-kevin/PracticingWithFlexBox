@@ -4,9 +4,9 @@ You learned a lot about flexbox in this section. Practice it with this 3-in-1 pr
 
 Create a new React Native project. In the tutorial, rectangles (boxes) of color were used to demonstrate how different flexbox properties worked. In this project, you will create 2 boxes, 50 by 50 units, of different colors (your choice of color). In the first part of the project, you will display 4 of those boxes in a single row with space around each box. In the second part, you will display rows of of the boxes, with 1 box in the first row, 2 in the second row, 3 in the third row, 4 in the fourth row. In the third part, you will display boxes in columns, 1 in the first column, 2 in the second column, 3 in the third column, and 4 in the fourth column. In the final part, you will combine these three pages into a single page. Here are examples:
 
-flexSingleRow.PNG     flexRows.PNG
+![flexSingleRow.PNG}(https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/readMePictures/flexSingleRow.PNG)     ![flexRows.PNG}(https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/readMePictures/flexRows.PNG)
 
-flexColumns.PNG     flexAllInOne.PNG
+![flexColumns.PNG](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/readMePictures/flexColumns.PNG)     ![flexAllInOne.PNG](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/readMePictures/flexAllInOne.PNG)
 
 In the project, create a folder for "screens". In that folder, create files for the pages for the single row, rows of boxes, columns of boxes, and the all-in-one page. In the App.js file, remove the text in the App() function, Replace it with a call to the page for the first screen, the one for the row of boxes with space all around. You will call each screen as you work on it, until it is finished, then take a screenshot like above. Then comment out that call to that screen, and add a call to the second screen, and so on. You will end up with 4 imports of those screens and 4 calls to the screens, with 3 of them commented out. 
 
