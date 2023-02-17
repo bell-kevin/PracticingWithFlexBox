@@ -4,7 +4,7 @@ You learned a lot about flexbox in this section. Practice it with this 3-in-1 pr
 
 Create a new React Native project. In the tutorial, rectangles (boxes) of color were used to demonstrate how different flexbox properties worked. In this project, you will create 2 boxes, 50 by 50 units, of different colors (your choice of color). In the first part of the project, you will display 4 of those boxes in a single row with space around each box. In the second part, you will display rows of of the boxes, with 1 box in the first row, 2 in the second row, 3 in the third row, 4 in the fourth row. In the third part, you will display boxes in columns, 1 in the first column, 2 in the second column, 3 in the third column, and 4 in the fourth column. In the final part, you will combine these three pages into a single page. Here are examples:
 
-![flexSingleRow.PNG}(https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/readMePictures/flexSingleRow.PNG)     ![flexRows.PNG}(https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/readMePictures/flexRows.PNG)
+![flexSingleRow.PNG](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/readMePictures/flexSingleRow.PNG)     ![flexRows.PNG](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/readMePictures/flexRows.PNG)
 
 ![flexColumns.PNG](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/readMePictures/flexColumns.PNG)     ![flexAllInOne.PNG](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/readMePictures/flexAllInOne.PNG)
 
