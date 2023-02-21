@@ -30,8 +30,6 @@ The all-in-one page combines those 3 pages. This page has one column containing 
 
 Take 4 screenshots as shown above.
 
- 
-
 Submission: Zip together the 4 screenshots and the root folder of the project, and submit a single zipped file.
 
 https://reactnative.dev/docs/environment-setup
