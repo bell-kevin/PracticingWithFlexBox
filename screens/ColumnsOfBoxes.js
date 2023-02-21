@@ -6,22 +6,22 @@ const ColumnsOfBoxes = () => {
     <View style={styles.container}>
       <Text style={styles.title}>Columns of boxes</Text>
       <View style={styles.row}>
-        <View style={styles.column}>
+        <View style={[styles.column, { height: 200 }]}>
           <View style={[styles.box, { backgroundColor: 'lightblue' }]} />
           <View style={[styles.box, { backgroundColor: 'lightblue' }]} />
           <View style={[styles.box, { backgroundColor: 'lightblue' }]} />
           <View style={[styles.box, { backgroundColor: 'lightblue' }]} />
         </View>
-        <View style={styles.column}>
+        <View style={[styles.column, { height: 200 }]}>
           <View style={[styles.box, { backgroundColor: 'darkorange' }]} />
           <View style={[styles.box, { backgroundColor: 'darkorange' }]} />
           <View style={[styles.box, { backgroundColor: 'darkorange' }]} />
         </View>
-        <View style={styles.column}>
+        <View style={[styles.column, { height: 200 }]}>
           <View style={[styles.box, { backgroundColor: 'lightblue' }]} />
           <View style={[styles.box, { backgroundColor: 'lightblue' }]} />
         </View>
-        <View style={styles.column}>
+        <View style={[styles.column, { height: 200 }]}>
           <View style={[styles.box, { backgroundColor: 'darkorange' }]} />
         </View>
       </View>
@@ -44,7 +44,6 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
   },
   column: {
-    flex: 1,
     flexDirection: 'column',
     alignItems: 'center',
     justifyContent: 'center',
