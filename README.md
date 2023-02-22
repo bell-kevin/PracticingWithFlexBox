@@ -36,13 +36,9 @@ https://reactnative.dev/docs/environment-setup
 
 https://reactnative.dev/docs/components-and-apis
 
-![p](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/screenShots/1.PNG)
+![p](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/screenShots/1.PNG)     ![p](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/screenShots/2.PNG)
 
-![p](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/screenShots/2.PNG)
-
-![p](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/screenShots/3.PNG)
-
-![p](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/screenShots/4.PNG)
+![p](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/screenShots/3.PNG)     ![p](https://github.com/bell-kevin/PracticingWithFlexBox/blob/main/screenShots/4.PNG)
 
 == We're Using GitHub Under Protest ==
 
